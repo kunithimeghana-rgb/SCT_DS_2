@@ -64,15 +64,7 @@ Place the Titanic dataset file in the project directory (train.csv or train.xlsx
 Open Titanic_Data_Cleaning_and_EDA.ipynb in Jupyter Notebook or Lab.
 
 Run cells sequentially to reproduce data cleaning and EDA process.
+
+
 Contact Emial: kuntihimeghana004@gmial.com 
 linkdin:www.linkedin.com/in/kunithi-meghana
-
-
-
-Modify or extend code as needed for further exploration or modeling.
-
-Sample Visualizations Survival by Sex and Class: (Include or generate example plots using notebook outputs)
-
-Acknowledgements Kaggle Titanic competition
-
-pandas, matplotlib, seaborn, numpy
